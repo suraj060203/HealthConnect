@@ -105,13 +105,13 @@ Dashboard - https://hm-system.netlify.app/
 
 ## Presentation
 
-Link - <a href="https://mubeendesigner.my.canva.site/healthconnect" alt="presentation">Drive</a>
+Link - <a href="https://mubeendesigner.my.canva.site/healthconnect" alt="presentation">Click To See the Presentation</a>
 
 ## Team Members / Contributors
 
 - [@Suraj Kumar](https://github.com/suraj060203)
-- [@Vikas Kumar]
-- [@Shiwansh Bhardwaj]
-- [@Swati Jha]
-- [Prinshi Paliwal]
+- Vikas Kumar
+- Shiwansh Bhardwaj
+- Swati Jha
+- Prinshi Paliwal
 
