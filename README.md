@@ -9,7 +9,7 @@ Project developed by HackAlt Team.
 
 # What is Health Connect ? 
 
-Health-Connect is a comprehensive hospital website with many features such as management system developed by the Vytotech Team to address data management challenges and streamline healthcare operations. The system integrates nurse, doctor, and admin workflows, providing interconnected access to patient records, appointments, and hospital resources. Additionally, the project includes machine learning models for cancer and heart disease prediction with high accuracy, allowing for early detection and improved patient care. By centralizing data and automating processes, Health-Connect enhances hospital efficiency and supports better patient outcomes.
+Health-Connect is a comprehensive hospital website with many features such as management system developed by the HackAlt Team to address data management challenges and streamline healthcare operations. The system integrates nurse, doctor, and admin workflows, providing interconnected access to patient records, appointments, and hospital resources. Additionally, the project includes machine learning models for cancer and heart disease prediction with high accuracy, allowing for early detection and improved patient care. By centralizing data and automating processes, Health-Connect enhances hospital efficiency and supports better patient outcomes.
 
 # Solution : 
 
